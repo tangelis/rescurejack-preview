@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[40735,["/rescurejack-preview/_next/static/chunks/12od_-azjdyfi.js","/rescurejack-preview/_next/static/chunks/0b3qeynon3dy-.js"],"default"]
+3:I[52959,["/rescurejack-preview/_next/static/chunks/12od_-azjdyfi.js","/rescurejack-preview/_next/static/chunks/0b3qeynon3dy-.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"5OML17fXQavsD0LSDek0k"}
