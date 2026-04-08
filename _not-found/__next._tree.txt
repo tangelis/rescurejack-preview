@@ -1,2 +1,2 @@
-:HL["/rescurejack-preview/_next/static/chunks/08zxvomymgyec.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MOWoWKwIzWzH97sJ3bPAf"}
+:HL["/_next/static/chunks/081vc2pxw7w7i.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"at61Rhkwl31L4r1t-24VV"}
